@@ -30,10 +30,3 @@ This is a WordPress plugin that displays a random inspirational quote on your we
 
 To display the quote on your website, simply add the shortcode `[quote_of_the_day]` to any page or post.
 
-## Contributing
-
-If you find any issues or have suggestions for improvements, please feel free to create a new issue or submit a pull request on the [GitHub repository](https://github.com/your-username/wordpress-quote-plugin).
-
-## License
-
-This plugin is licensed under the [MIT License](LICENSE).
